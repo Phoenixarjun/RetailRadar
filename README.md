@@ -65,19 +65,18 @@ This layer uses LLMs to convert **natural language** into **SQL queries** in rea
 ### Example Interaction
 
 - **User asks**:  
-  `"How many Puma t-shirts are on sale?"`
+  "How many Puma t-shirts are on sale?"
 
 - **AI-generated SQL**:
-  ```sql
+  sql
   SELECT COUNT(*) 
   FROM t_shirts t
   JOIN discounts d ON t.t_shirt_id = d.t_shirt_id
   WHERE t.brand = 'Puma' 
     AND CURRENT_DATE BETWEEN d.start_date AND d.end_date;
-````
 
 * **AI response**:
-  `"There are 12 Puma t-shirts currently on discount."`
+  "There are 12 Puma t-shirts currently on discount."
 
 This empowers **non-technical users** to interact with data seamlessly.
 
@@ -131,7 +130,3 @@ Full-stack developer | AI Innovator | Builder of bold systems
 
 MIT — free to use, remix, and expand.
 
-```
-
-Would you like me to export this into a `.md` file for direct download or GitHub push?
-```
