@@ -3,6 +3,10 @@
 Welcome to **AtliQ T-Shirts**, a smart inventory and discount management system — supercharged with **AI-powered natural language querying**. This isn’t just a MySQL database — it’s a **conversational knowledge interface** built on structured data.
 
 ---
+![image](https://github.com/user-attachments/assets/59b3010a-f54f-4f74-82cc-c1c752c0b86c)
+---
+![Uploading image.png…]()
+---
 
 ## 🚀 Overview
 
