@@ -1,8 +1,5 @@
-Here’s your fully formatted `README.md` file:
 
-````markdown
 # 🧠 AtliQ T-Shirts: AI-Integrated Database Q&A Engine
-
 Welcome to **AtliQ T-Shirts**, a smart inventory and discount management system — supercharged with **AI-powered natural language querying**. This isn’t just a MySQL database — it’s a **conversational knowledge interface** built on structured data.
 
 ---
